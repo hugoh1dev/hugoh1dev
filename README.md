@@ -3,9 +3,10 @@
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hugoh1dev&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
-### Hi there, I'm Hugo Junior 👋  
-I'm a Full-Stack Developer. 
-- I'm studying now Full-Stack JS at [InfinitySchool](https://infinityschool.com.br/cursos/full-stack/) And Explorer student at [RocketSeat](https://rocketseat.com.br)
+### Hi there, I'm Hugo Junior a Full-Stack Developer.👋  
+- I completed the full-stack programming course at Infinity School. [InfinitySchool](https://infinityschool.com.br/cursos/full-stack/)
+- I study at UNIFACS (University of Salvador), pursuing a Bachelor's degree in Information Systems."
+- I’m currently learning TypeScript | React | Node at [RocketSeat](https://rocketseat.com.br)
 
   
 <div align="center">
