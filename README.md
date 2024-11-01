@@ -24,7 +24,7 @@
  
   <div> 
   <a href="https://www.instagram.com/hugoh1_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- <a href="hugoh1dev.netlify.app/" target="_blank"><img src="https://img.shields.io/twitter/url?label=Portif%C3%B3lio&style=for-the-badge&url=https%3A%2F%2Fportifolio-beige-nu.vercel.app%2F" target="_blank"></a> 
+ <a href="https://www.hugoh1dev.netlify.app/" target="_blank"><img src="https://img.shields.io/twitter/url?label=Portif%C3%B3lio&style=for-the-badge&url=https%3A%2F%2Fportifolio-beige-nu.vercel.app%2F" target="_blank"></a> 
   <a href = "mailto:hugoh1dev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a targer="_blank"href="https://www.linkedin.com/in/hugo-junior-a5315a263" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
